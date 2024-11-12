@@ -1,6 +1,6 @@
-# MCKD
+# MetaKD
 
-The code repository of MCKD model from [paper](https://arxiv.org/pdf/2405.07155) "Enhancing Multi-modal Learning: Meta-learned Cross-modal Knowledge Distillation for Handling Missing Modalities".
+The code repository of MetaKD model from [paper](https://arxiv.org/pdf/2405.07155) "Meta-Learned Modality-Weighted Knowledge Distillation for Robust Multi-Modal Learning with Missing Data".
 
 ## Installation
 
